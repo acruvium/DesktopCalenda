@@ -134,8 +134,3 @@
   - `src-tauri/tauri.conf.json`
   - `src-tauri/Cargo.toml`
 
-## 11. 빌드 산출물
-
-- 실행 파일: `E:\Projects\DesktopCalendar\src-tauri\target\release\desk-calendar-dock.exe`
-- NSIS 설치 파일: `E:\Projects\DesktopCalendar\src-tauri\target\release\bundle\nsis\Desk Calendar Dock_1.1.3_x64-setup.exe`
-- MSI 설치 파일: `E:\Projects\DesktopCalendar\src-tauri\target\release\bundle\msi\Desk Calendar Dock_1.1.3_x64_en-US.msi`
